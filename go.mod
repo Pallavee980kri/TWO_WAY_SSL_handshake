@@ -1,0 +1,3 @@
+module TWO_WAY_SSL_HANDLESHAKE
+
+go 1.20
